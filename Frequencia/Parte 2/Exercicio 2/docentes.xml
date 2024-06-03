@@ -1,0 +1,30 @@
+<course name="Nome do Curso">
+  <unit>
+    <code>UC001</code>
+    <name>Programação</name>
+    <semester>1</semester>
+    <credits>6</credits>
+    <instructors>
+      <instructor>
+        <name>António Lira Fernandes</name>
+        <email>anfernandes@estg.ipvc.pt</email>
+      </instructor>
+      <instructor>
+        <name>Marcelo Antunes Fernandes</name>
+        <email>fernandesmarcelo@estg.ipvc.pt</email>
+      </instructor>
+    </instructors>
+  </unit>
+  <unit>
+    <code>UC002</code>
+    <name>Matemática</name>
+    <semester>2</semester>
+    <credits>6</credits>
+    <instructors>
+      <instructor>
+        <name>Dr. Carlos Mendes</name>
+        <email>carlos.mendes@example.com</email>
+      </instructor>
+    </instructors>
+  </unit>
+</course>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo de Estilos</title>
+    <style>
+        p {
+            text-align: center;
+            color: red;
+        }
+        #para1 {
+            text-align: center;
+            color: blue;
+        }
+        .center {
+            text-align: center;
+        }
+        p.center {
+            text-align: center;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <p>Este é um parágrafo centrado com cor vermelha.</p>
+    <p id="para1">Este é um parágrafo centrado com cor azul.</p>
+    <p class="center" id="para1">Este é um parágrafo centrado com cor azul (id tem prioridade sobre classe).</p>
+    <p class="center para2">Este é um parágrafo centrado com cor preta.</p>
+</body>
+</html>

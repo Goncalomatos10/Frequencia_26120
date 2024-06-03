@@ -1,0 +1,34 @@
+{
+    "course": "Nome do Curso",
+    "units": [
+      {
+        "code": "UC001",
+        "name": "Programação",
+        "semester": 1,
+        "credits": 6,
+        "instructors": [
+          {
+            "name": "António Lira Fernandes",
+            "email": "anfernandes@estg.ipvc.pt"
+          },
+          {
+            "name": "Marcelo Antunes Fernandes",
+            "email": "fernandesmarcelo@estg.ipvc.pt"
+          }
+        ]
+      },
+      {
+        "code": "UC002",
+        "name": "Matemática",
+        "semester": 2,
+        "credits": 6,
+        "instructors": [
+          {
+            "name": "Dr. Carlos Mendes",
+            "email": "carlos.mendes@example.com"
+          }
+        ]
+      }
+    ]
+  }
+  
